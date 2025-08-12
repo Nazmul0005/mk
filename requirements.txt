@@ -8,3 +8,4 @@ apscheduler
 pydantic
 langchain-openai
 langchain-core
+fastapi
