@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+openai
+httpx
+apscheduler
+pydantic
+langchain-openai
+langchain-core
